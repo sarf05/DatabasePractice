@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SokoHuruInsert</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Name of your item</string>
+    <string name="hint_email">Enter your Price</string>
+    <string name="btn_register">Advertise your item</string>
+    <string name="btn_link_to_login">Login with Facebook</string>
+</resources>
